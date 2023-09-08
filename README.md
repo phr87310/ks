@@ -643,7 +643,7 @@ void main()
 {
         int i,n,a1=1,a2=3,a3=4,a4;
 
-/**********Program**********/
+/**********  program  **********/
 
 
 
@@ -685,7 +685,7 @@ int main()
 {
     int a,b,c,d,i,j,sum=0;
     scanf("%d",&j);
-    /**********Program**********/
+    /**********  program  **********/
 
 
 
